@@ -23,13 +23,13 @@ padding:10%;
 
     }
 
-    .fa-brands{
+    .icon{
         font-size: 100px;
         color:blue;
         margin-right: 50px;
     }
 
-    a{
+   .fab{
         font-size:50px;
         color:white;
         text-decoration: none;

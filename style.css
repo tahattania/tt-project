@@ -24,25 +24,28 @@ padding:10%;
     }
 
     .icon{
+
+        display:block;
         font-size: 100px;
         color:blue;
         margin-right: 50px;
     }
 
    .fab{
+        display:block; 
         font-size:50px;
         color:white;
         text-decoration: none;
         background-color:blue ;
     }
-    a:hover{
+    .fab:hover{
         color:blue;
         background-color: white;
     }
-    a:active{
+    .fab:active{
         color:black;
     }
-    a:visited{
+    .fab:visited{
         color:brown;
         background-color: black;
     }

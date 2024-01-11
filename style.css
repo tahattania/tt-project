@@ -22,8 +22,12 @@ padding:10%;
        
 
     }
+    body{
+        display:block;
+    }
 
     .icon{
+
         font-size: 100px;
         color:blue;
         margin-right: 50px;
